@@ -28,6 +28,7 @@ This project is my graduation project website. I used nodejs express for backend
       <h3> Weather Page Mobile (iPhone 12 Pro) Screenshots</h3>
     </td>
   </tr>
+  
   <tr>
     <td>
       <img src="https://user-images.githubusercontent.com/55981219/174830016-62416c0a-5c22-4b93-89da-5f6181c29490.png" width="390px">
@@ -36,5 +37,36 @@ This project is my graduation project website. I used nodejs express for backend
       <img src="https://user-images.githubusercontent.com/55981219/174830214-c4151867-1ffb-421c-a373-2cced1310ccb.png" width="390px">
     </td>
   </tr>
+  
+  <tr>
+    <td>
+      <h3> Sign Up Page Mobile (iPhone 12 Pro) Screenshots </h3>
+    </td>
+    <td>
+      <h3> Log In Page Mobile (iPhone 12 Pro) Screenshots</h3>
+    </td>
+  </tr>
+
+  <tr>
+    <td>
+      <img src="https://user-images.githubusercontent.com/55981219/174843882-ca67f3f1-dadd-40ea-a9e1-ef50a7dfbf65.png" width="390px">
+    </td>
+    <td>
+      <img src="https://user-images.githubusercontent.com/55981219/174843941-a6e00a19-ed63-4b63-9c99-500897a2628f.png" width="390px">
+    </td>
+  </tr>
+    
+  <tr>
+    <td>
+      <h3> Settings Page Mobile (iPhone 12 Pro) Screenshots </h3>
+    </td>
+  </tr>
+
+  <tr>
+    <td>
+      <img src="https://user-images.githubusercontent.com/55981219/174855578-ed3099e7-50e4-4388-bed6-ea1d4bff4d4f.png" width="390px">
+    </td>
+  </tr>
+  
 </table>
   
