@@ -19,7 +19,7 @@ This project is my graduation project website. I used nodejs express for backend
 ![image](https://user-images.githubusercontent.com/55981219/174829816-dfc6a050-494c-4347-b674-0e50c1badf89.png)
 
 
-<table style="border-collapse:collapse; border:none;">
+<table>
   <tr>
     <td>
       <h3> Main Page Mobile (iPhone 12 Pro) Screenshots </h3>
